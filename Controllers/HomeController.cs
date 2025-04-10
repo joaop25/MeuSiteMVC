@@ -23,6 +23,12 @@ public class HomeController : Controller
         return View();
     }
 
+    [HttpGet("home2/joao")]
+    public IActionResult Detalhes(int id)
+    {
+        return Index();
+    }
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {

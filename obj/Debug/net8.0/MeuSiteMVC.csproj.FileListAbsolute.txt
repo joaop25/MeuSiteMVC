@@ -32,3 +32,4 @@ C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\MeuSiteMVC\obj\Debug\net8.0\r
 C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\MeuSiteMVC\obj\Debug\net8.0\MeuSiteMVC.pdb
 C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\MeuSiteMVC\obj\Debug\net8.0\MeuSiteMVC.genruntimeconfig.cache
 C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\MeuSiteMVC\obj\Debug\net8.0\ref\MeuSiteMVC.dll
+C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\MeuSiteMVC\obj\Debug\net8.0\MeuSiteMVC.sourcelink.json
