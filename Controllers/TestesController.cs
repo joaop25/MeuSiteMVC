@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using MeuSiteMVC.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MeuSiteMVC.Controllers
@@ -14,9 +15,9 @@ namespace MeuSiteMVC.Controllers
 
         // GET: TestesController/Details/5
         [HttpGet("Detalhes")]
-        public ActionResult Details(int id)
+        public ActionResult<Produto> Details([FromBody] Produto produto)
         {
-            return NotFound();
+            return produto;
         }
 
         // GET: TestesController/Create
