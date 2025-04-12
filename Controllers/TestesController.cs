@@ -8,21 +8,21 @@ namespace MeuSiteMVC.Controllers
     public class TestesController : Controller
     {
         // GET: TestesController
-        public ActionResult Index()
+        public IActionResult Index()
         {
             return View();
         }
 
         // GET: TestesController/Details/5
         [HttpGet("Detalhes")]
-        public ActionResult<Produto> Details([FromBody] Produto produto)
+        public ICollection<Carrinho> Details([FromBody] ICollection<Carrinho> carrinho)
         {
-            return produto;
+            return carrinho;
         }
 
         // GET: TestesController/Create
         [HttpGet("novo")]
-        public ActionResult Create()
+        public IActionResult Create()
         {
             return Content("ok");
         }
@@ -30,7 +30,7 @@ namespace MeuSiteMVC.Controllers
         // POST: TestesController/Create
         [HttpPost("novo")]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public IActionResult Create(IFormCollection collection)
         {
             try
             {
@@ -43,7 +43,7 @@ namespace MeuSiteMVC.Controllers
         }
 
         // GET: TestesController/Edit/5
-        public ActionResult Edit(int id)
+        public IActionResult Edit(int id)
         {
             return View();
         }
@@ -51,7 +51,7 @@ namespace MeuSiteMVC.Controllers
         // POST: TestesController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public IActionResult Edit(int id, IFormCollection collection)
         {
             try
             {
@@ -64,7 +64,7 @@ namespace MeuSiteMVC.Controllers
         }
 
         // GET: TestesController/Delete/5
-        public ActionResult Delete(int id)
+        public IActionResult Delete(int id)
         {
             return View();
         }
@@ -72,7 +72,7 @@ namespace MeuSiteMVC.Controllers
         // POST: TestesController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public IActionResult Delete(int id, IFormCollection collection)
         {
             try
             {
