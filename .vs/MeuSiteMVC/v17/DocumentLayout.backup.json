@@ -1,41 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\",
+  "WorkspaceRootPath": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\letic\\onedrive\\\u00E1rea de trabalho\\joao pedro\\meusitemvc\\migrations\\20250416003439_v01_meusitemvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:migrations\\20250416003439_v01_meusitemvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\letic\\onedrive\\\u00E1rea de trabalho\\joao pedro\\meusitemvc\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\letic\\onedrive\\\u00E1rea de trabalho\\joao pedro\\meusitemvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\letic\\onedrive\\\u00E1rea de trabalho\\joao pedro\\meusitemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\meusitemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:meusitemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\letic\\onedrive\\\u00E1rea de trabalho\\joao pedro\\meusitemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\letic\\onedrive\\\u00E1rea de trabalho\\joao pedro\\meusitemvc\\viewcomponents\\saudacaoalunoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:viewcomponents\\saudacaoalunoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\controllers\\testescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:controllers\\testescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\letic\\onedrive\\\u00E1rea de trabalho\\joao pedro\\meusitemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\letic\\onedrive\\\u00E1rea de trabalho\\joao pedro\\meusitemvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\letic\\onedrive\\\u00E1rea de trabalho\\joao pedro\\meusitemvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\letic\\onedrive\\\u00E1rea de trabalho\\joao pedro\\meusitemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joao.fernandes\\AppData\\Local\\SourceServer\\bbc97c7d228f500b6588c33187fe917e576191488276e34306c0dd45db0fb34f\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\letic\\onedrive\\\u00E1rea de trabalho\\joao pedro\\meusitemvc\\views\\shared\\components\\saudacaoaluno\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\shared\\components\\saudacaoaluno\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\letic\\onedrive\\\u00E1rea de trabalho\\joao pedro\\meusitemvc\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\letic\\onedrive\\\u00E1rea de trabalho\\joao pedro\\meusitemvc\\meusitemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:meusitemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\letic\\onedrive\\\u00E1rea de trabalho\\joao pedro\\meusitemvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\letic\\onedrive\\\u00E1rea de trabalho\\joao pedro\\meusitemvc\\controllers\\testescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:controllers\\testescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joao.fernandes\\AppData\\Local\\SourceServer\\bbc97c7d228f500b6588c33187fe917e576191488276e34306c0dd45db0fb34f\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,71 +73,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ModelsController.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\ModelsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ModelsController.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\ModelsController.cs",
-              "RelativeToolTip": "Controllers\\ModelsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T11:06:27.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MeuSiteMVC",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\MeuSiteMVC.csproj",
-              "RelativeDocumentMoniker": "MeuSiteMVC.csproj",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\MeuSiteMVC.csproj",
-              "RelativeToolTip": "MeuSiteMVC.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-12T10:42:08.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\Aluno.cs",
-              "RelativeDocumentMoniker": "Models\\Aluno.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\Aluno.cs",
-              "RelativeToolTip": "Models\\Aluno.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Title": "20250416003439_v01_MeuSiteMVC.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Migrations\\20250416003439_v01_MeuSiteMVC.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250416003439_v01_MeuSiteMVC.cs",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Migrations\\20250416003439_v01_MeuSiteMVC.cs",
+              "RelativeToolTip": "Migrations\\20250416003439_v01_MeuSiteMVC.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T10:41:19.222Z",
+              "WhenOpened": "2025-04-16T00:34:40.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T10:41:02.645Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T00:25:57.253Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:23:00.578Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "SaudacaoAlunoViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\ViewComponents\\SaudacaoAlunoViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\SaudacaoAlunoViewComponent.cs",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\ViewComponents\\SaudacaoAlunoViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\SaudacaoAlunoViewComponent.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T23:50:06.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\Produto.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "Models\\Produto.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Models\\Produto.cs",
               "RelativeToolTip": "Models\\Produto.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAIwAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -118,11 +142,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Models\\Aluno.cs",
+              "RelativeToolTip": "Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:41:19.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:41:02.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T23:57:09.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T01:11:45.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MeuSiteMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\MeuSiteMVC.csproj",
+              "RelativeDocumentMoniker": "MeuSiteMVC.csproj",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\MeuSiteMVC.csproj",
+              "RelativeToolTip": "MeuSiteMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-12T10:42:08.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T00:09:31.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:04:11.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T00:04:44.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Views\\Shared\\Components\\SaudacaoAluno\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\SaudacaoAluno\\Default.cshtml",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Views\\Shared\\Components\\SaudacaoAluno\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\SaudacaoAluno\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T00:01:57.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "TestesController.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\TestesController.cs",
+              "DocumentMoniker": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Controllers\\TestesController.cs",
               "RelativeDocumentMoniker": "Controllers\\TestesController.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\TestesController.cs",
+              "ToolTip": "C:\\Users\\letic\\OneDrive\\\u00C1rea de Trabalho\\JOAO PEDRO\\MeuSiteMVC\\Controllers\\TestesController.cs",
               "RelativeToolTip": "Controllers\\TestesController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAvwBMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,41 +276,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\AppData\\Local\\SourceServer\\bbc97c7d228f500b6588c33187fe917e576191488276e34306c0dd45db0fb34f\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\bbc97c7d228f500b6588c33187fe917e576191488276e34306c0dd45db0fb34f\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\joao.fernandes\\AppData\\Local\\SourceServer\\bbc97c7d228f500b6588c33187fe917e576191488276e34306c0dd45db0fb34f\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\joao.fernandes\\AppData\\Local\\SourceServer\\bbc97c7d228f500b6588c33187fe917e576191488276e34306c0dd45db0fb34f\\Controllers\\HomeController.cs [Somente Leitura]",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\bbc97c7d228f500b6588c33187fe917e576191488276e34306c0dd45db0fb34f\\Controllers\\HomeController.cs [Somente Leitura]",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAlwBoAAAAEAAAAAQAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\joao.fernandes\\AppData\\Local\\SourceServer\\bbc97c7d228f500b6588c33187fe917e576191488276e34306c0dd45db0fb34f\\Controllers\\HomeController.cs [Somente Leitura]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T23:22:31.86Z",
               "EditorCaption": " [Somente Leitura]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T23:04:11.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T01:11:45.059Z"
             }
           ]
         }
