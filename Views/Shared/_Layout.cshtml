@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/MeuSiteMVC.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+
 </head>
 <body>
     <header>
@@ -36,17 +39,30 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2025 - MeuSiteMVC - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        
-            <vc:saudacao-aluno />
-           @*@ @await Component.InvokeAsync("SaudacaoAluno") *@
-        </div>
+    <footer class="footer bg-light text-muted">
+       @*  <div class="container py-3">
+            <div class="row">
+                <!-- Coluna de Copyright e Links -->
+                <div class="col-md-6">
+                    <p class="mb-0">&copy; 2025 - MeuSiteMVC</p>
+                    <p class="mb-0">
+                        <a href="@Url.Action("Privacy", "Home")" class="text-muted text-decoration-none">Privacy</a>
+                    </p>
+                </div>
+
+                <!-- Coluna de Saudação -->
+                <div class="col-md-6 text-md-end">
+                    <vc:saudacao-aluno />
+                </div>
+            </div>
+        </div> *@
     </footer>
+
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
