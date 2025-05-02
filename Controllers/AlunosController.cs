@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace MeuSiteMVC.Controllers
 {
+    [Route("alunos")]
     public class AlunosController : Controller
     {
         private readonly AppDbContext _context;
@@ -15,6 +16,7 @@ namespace MeuSiteMVC.Controllers
             _context = context;
         }
 
+        [Route("inicio")]
         public IActionResult Index(string searchString)
         {
             var alunos = from a in _context.Alunos
@@ -30,12 +32,13 @@ namespace MeuSiteMVC.Controllers
             return View(alunos.ToList());
         }
 
+        [Route("criar-aluno")]
         public IActionResult Create()
         {
             return View();
         }
 
-        [HttpPost]
+        [HttpPost("criar")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Nome, DataNascimento, Email, EmailConfirmacao, Avaliacao,Ativo")] Aluno aluno)
         {
@@ -52,13 +55,14 @@ namespace MeuSiteMVC.Controllers
            
         }
 
+        [Route("detalhes")]
         public async Task<IActionResult> Details(int id)
         {
             var aluno = await _context.Alunos.FirstOrDefaultAsync(m => m.Id == id);
             return View(aluno);
         }
 
-
+        [Route("editar/{id}")]
         public async Task<IActionResult> Edit(int id)
         {
             var aluno = await _context.Alunos.FindAsync(id);
@@ -84,6 +88,20 @@ namespace MeuSiteMVC.Controllers
 
             return View(aluno);
 
+        }
+
+        [Route("deletar/{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var aluno = await _context.Alunos.FindAsync(id);
+            
+            if(aluno == null) return Content("Aluno não encontrado para ser deletado!!");
+
+            _context.Alunos.Remove(aluno);
+            await _context.SaveChangesAsync();
+
+            TempData["Mensagem"] = "Aluno deletado com sucesso!";
+            return RedirectToAction(nameof(Index));
         }
     }
 }
