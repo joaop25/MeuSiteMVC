@@ -1,11 +1,13 @@
 ﻿using MeuSiteMVC.Data;
 using MeuSiteMVC.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
 
 namespace MeuSiteMVC.Controllers
 {
+    [Authorize(Roles = "Admin")]
     [Route("alunos")]
     public class AlunosController : Controller
     {
@@ -17,6 +19,7 @@ namespace MeuSiteMVC.Controllers
         }
 
         [Route("inicio")]
+        [AllowAnonymous]
         public IActionResult Index(string searchString)
         {
             var alunos = from a in _context.Alunos
@@ -39,7 +42,7 @@ namespace MeuSiteMVC.Controllers
         }
 
         [HttpPost("criar")]
-        [ValidateAntiForgeryToken]
+       // [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Nome, DataNascimento, Email, EmailConfirmacao, Avaliacao,Ativo")] Aluno aluno)
         {
             if (ModelState.IsValid)
@@ -70,7 +73,7 @@ namespace MeuSiteMVC.Controllers
         }
 
         [HttpPost]
-        [ValidateAntiForgeryToken]
+       // [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Nome, DataNascimento, Email, Avaliacao,Ativo")] Aluno aluno)
         {
             if (id != aluno.Id)
@@ -91,6 +94,7 @@ namespace MeuSiteMVC.Controllers
         }
 
         [Route("deletar/{id}")]
+       // [ValidateAntiForgeryToken]
         public async Task<IActionResult> Delete(int id)
         {
             var aluno = await _context.Alunos.FindAsync(id);
