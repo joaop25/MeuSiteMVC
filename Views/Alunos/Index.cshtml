@@ -7,10 +7,10 @@
         transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
 
-        .card-hover:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
-        }
+    .card-hover:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+    }
 
     .search-form input {
         border-radius: 20px 0 0 20px;
@@ -25,26 +25,42 @@
         flex-direction: column;
     }
 
-        .card-body .content {
-            flex-grow: 1;
-        }
+    .card-body .content {
+        flex-grow: 1;
+    }
 
-        .card-body .actions {
-            margin-top: auto;
-        }
+    .card-body .actions {
+        margin-top: auto;
+    }
 </style>
 
 <div class="container mt-5">
     <div class="d-flex justify-content-between align-items-center mb-4">
         <h2 class="text-start fw-bold text-primary">Lista de Alunos</h2>
 
-        <form asp-action="Index" method="get" class="d-flex search-form" style="max-width: 300px;">
-            <input type="text" name="searchString" class="form-control form-control-sm me-2" placeholder="Buscar..." value="@ViewBag.CurrentFilter" />
-            <button type="submit" class="btn btn-sm btn-primary">
-                <i class="bi bi-search"></i>
-            </button>
-        </form>
+        <div class="d-flex gap-2">
+            <form asp-action="Index" method="get" class="d-flex search-form" style="max-width: 300px;">
+                <div class="input-group">
+                    <input type="text" name="searchString" class="form-control form-control-sm" placeholder="Buscar..." value="@ViewBag.CurrentFilter" />
+                    <button type="submit" class="btn btn-sm btn-primary">
+                        <i class="bi bi-search"></i>
+                    </button>
+                </div>
+            </form>
+
+            <a asp-action="Create" class="btn btn-sm btn-success">
+                <i class="bi bi-plus-circle"></i> Criar
+            </a>
+        </div>
     </div>
+
+    @if (TempData["Mensagem"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <i class="bi bi-check-circle-fill"></i> @TempData["Mensagem"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Fechar"></button>
+        </div>
+    }
 
     @if (Model != null && Model.Any())
     {
@@ -80,6 +96,9 @@
                                 </a>
                                 <a class="btn btn-outline-warning btn-sm" asp-action="Edit" asp-route-id="@item.Id">
                                     <i class="bi bi-pencil"></i> Editar
+                                </a>
+                                <a class="btn btn-outline-danger btn-sm" asp-action="Delete" asp-route-id="@item.Id">
+                                    <i class="bi bi-trash"></i> Deletar
                                 </a>
                             </div>
                         </div>

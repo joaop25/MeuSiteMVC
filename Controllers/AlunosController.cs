@@ -1,11 +1,14 @@
 ﻿using MeuSiteMVC.Data;
 using MeuSiteMVC.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
 
 namespace MeuSiteMVC.Controllers
 {
+    [Authorize(Roles = "Admin")]
+    [Route("alunos")]
     public class AlunosController : Controller
     {
         private readonly AppDbContext _context;
@@ -15,6 +18,8 @@ namespace MeuSiteMVC.Controllers
             _context = context;
         }
 
+        [Route("inicio")]
+        [AllowAnonymous]
         public IActionResult Index(string searchString)
         {
             var alunos = from a in _context.Alunos
@@ -30,13 +35,14 @@ namespace MeuSiteMVC.Controllers
             return View(alunos.ToList());
         }
 
+        [Route("criar-aluno")]
         public IActionResult Create()
         {
             return View();
         }
 
-        [HttpPost]
-        [ValidateAntiForgeryToken]
+        [HttpPost("criar")]
+       // [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Nome, DataNascimento, Email, EmailConfirmacao, Avaliacao,Ativo")] Aluno aluno)
         {
             if (ModelState.IsValid)
@@ -52,13 +58,14 @@ namespace MeuSiteMVC.Controllers
            
         }
 
+        [Route("detalhes")]
         public async Task<IActionResult> Details(int id)
         {
             var aluno = await _context.Alunos.FirstOrDefaultAsync(m => m.Id == id);
             return View(aluno);
         }
 
-
+        [Route("editar/{id}")]
         public async Task<IActionResult> Edit(int id)
         {
             var aluno = await _context.Alunos.FindAsync(id);
@@ -66,7 +73,7 @@ namespace MeuSiteMVC.Controllers
         }
 
         [HttpPost]
-        [ValidateAntiForgeryToken]
+       // [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Nome, DataNascimento, Email, Avaliacao,Ativo")] Aluno aluno)
         {
             if (id != aluno.Id)
@@ -84,6 +91,21 @@ namespace MeuSiteMVC.Controllers
 
             return View(aluno);
 
+        }
+
+        [Route("deletar/{id}")]
+       // [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var aluno = await _context.Alunos.FindAsync(id);
+            
+            if(aluno == null) return Content("Aluno não encontrado para ser deletado!!");
+
+            _context.Alunos.Remove(aluno);
+            await _context.SaveChangesAsync();
+
+            TempData["Mensagem"] = "Aluno deletado com sucesso!";
+            return RedirectToAction(nameof(Index));
         }
     }
 }
