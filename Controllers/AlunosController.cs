@@ -1,4 +1,5 @@
 ﻿using MeuSiteMVC.Data;
+using MeuSiteMVC.Extensions;
 using MeuSiteMVC.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace MeuSiteMVC.Controllers
 {
-    [Authorize(Roles = "Admin")]
+    [Authorize]
     [Route("alunos")]
     public class AlunosController : Controller
     {
@@ -19,9 +20,11 @@ namespace MeuSiteMVC.Controllers
         }
 
         [Route("inicio")]
-        [AllowAnonymous]
+        [ClaimsAuthorize("Produtos", "VI")]
         public IActionResult Index(string searchString)
         {
+            var env = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
+
             var alunos = from a in _context.Alunos
                          select a;
 
@@ -35,14 +38,15 @@ namespace MeuSiteMVC.Controllers
             return View(alunos.ToList());
         }
 
+        [ClaimsAuthorize("Produtos", "AD")]
         [Route("criar-aluno")]
         public IActionResult Create()
         {
             return View();
         }
 
+        [ClaimsAuthorize("Produtos", "AD")]
         [HttpPost("criar")]
-       // [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Nome, DataNascimento, Email, EmailConfirmacao, Avaliacao,Ativo")] Aluno aluno)
         {
             if (ModelState.IsValid)
@@ -58,6 +62,7 @@ namespace MeuSiteMVC.Controllers
            
         }
 
+        [ClaimsAuthorize("Produtos", "VI")]
         [Route("detalhes")]
         public async Task<IActionResult> Details(int id)
         {
@@ -65,6 +70,7 @@ namespace MeuSiteMVC.Controllers
             return View(aluno);
         }
 
+        [ClaimsAuthorize("Produtos", "ED")]
         [Route("editar/{id}")]
         public async Task<IActionResult> Edit(int id)
         {
@@ -72,8 +78,9 @@ namespace MeuSiteMVC.Controllers
             return View(aluno);
         }
 
+
+        [ClaimsAuthorize("Produtos", "ED")]
         [HttpPost]
-       // [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Nome, DataNascimento, Email, Avaliacao,Ativo")] Aluno aluno)
         {
             if (id != aluno.Id)
@@ -93,6 +100,7 @@ namespace MeuSiteMVC.Controllers
 
         }
 
+        [ClaimsAuthorize("Produtos", "ED")]
         [Route("deletar/{id}")]
        // [ValidateAntiForgeryToken]
         public async Task<IActionResult> Delete(int id)
