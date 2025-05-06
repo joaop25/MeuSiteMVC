@@ -1,8 +1,10 @@
 ﻿using MeuSiteMVC.Data;
+using MeuSiteMVC.Models;
 using MeuSiteMVC.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 namespace MeuSiteMVC.Configuration
 {
@@ -14,7 +16,8 @@ namespace MeuSiteMVC.Configuration
                 .SetBasePath(builder.Environment.ContentRootPath)
                 .AddJsonFile("appsettings.json", true, true)
                 .AddJsonFile($"appsettings.{builder.Environment.EnvironmentName}.json", true, true)
-                .AddEnvironmentVariables();
+                .AddEnvironmentVariables()
+                .AddUserSecrets(Assembly.GetExecutingAssembly(), true); 
 
             builder.Services.AddControllersWithViews(options =>
             {
@@ -41,6 +44,9 @@ namespace MeuSiteMVC.Configuration
                 options.ExcludedHosts.Add("www.example.com");
             });
 
+            builder.Services.Configure<ApiConfiguration>(
+                builder.Configuration.GetSection(ApiConfiguration.ConfigName));
+
             return builder;
         }
 
@@ -48,10 +54,12 @@ namespace MeuSiteMVC.Configuration
         {
             if (app.Environment.IsDevelopment())
             {
-
+                app.UseDeveloperExceptionPage();
             }
             else
             {
+                app.UseExceptionHandler("/erro/500");
+                app.UseStatusCodePagesWithRedirects("/erro/{0}");
                 app.UseHsts();
             }
 

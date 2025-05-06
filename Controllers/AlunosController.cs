@@ -4,6 +4,7 @@ using MeuSiteMVC.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using System.Threading.Tasks;
 
 namespace MeuSiteMVC.Controllers
@@ -13,10 +14,13 @@ namespace MeuSiteMVC.Controllers
     public class AlunosController : Controller
     {
         private readonly AppDbContext _context;
+        private readonly ApiConfiguration ApiConfig;
 
-        public AlunosController(AppDbContext context)
+        public AlunosController(AppDbContext context
+            ,IOptions<ApiConfiguration> apiConfiguration)
         {
             _context = context;
+            ApiConfig = apiConfiguration.Value;
         }
 
         [Route("inicio")]
@@ -24,6 +28,10 @@ namespace MeuSiteMVC.Controllers
         public IActionResult Index(string searchString)
         {
             var env = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
+
+            //Usado para utilizar o appsettings.json para buscar as configurações de uma API 
+            //Uso o IOptions<ApiConfiguration> apiConfiguration
+            var apiDomain = ApiConfig.UserSecret;
 
             var alunos = from a in _context.Alunos
                          select a;
