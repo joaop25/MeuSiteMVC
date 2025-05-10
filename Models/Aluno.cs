@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MeuSiteMVC.Models
@@ -32,5 +33,11 @@ namespace MeuSiteMVC.Models
         [Range(1,5, ErrorMessage = "O campo {0} deve estar entre {1} e {2}")]
         public int Avaliacao { get; set; }
         public bool Ativo { get; set; }
+
+        [NotMapped]
+        [DisplayName("Imagem do Aluno")]
+        public IFormFile? ImagemUpload { get; set; }
+
+        public string? Imagem { get; set; }
     }
 }

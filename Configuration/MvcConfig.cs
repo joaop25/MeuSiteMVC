@@ -1,4 +1,5 @@
 ﻿using MeuSiteMVC.Data;
+using MeuSiteMVC.Extensions;
 using MeuSiteMVC.Models;
 using MeuSiteMVC.Services;
 using Microsoft.AspNetCore.Mvc;
@@ -19,10 +20,29 @@ namespace MeuSiteMVC.Configuration
                 .AddEnvironmentVariables()
                 .AddUserSecrets(Assembly.GetExecutingAssembly(), true); 
 
+
+            builder.Services.AddResponseCaching();
+
             builder.Services.AddControllersWithViews(options =>
             {
                 options.Filters.Add(new AutoValidateAntiforgeryTokenAttribute());
+                options.Filters.Add(typeof(FiltroAuditoria));
+
+                MvcOptionsConfig.ConfigurarMensagensDeModelBinding(options.ModelBindingMessageProvider);
+            })
+                .AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix)
+                .AddDataAnnotationsLocalization();
+
+
+
+            //Solicitando a permissão do usuario para utilizar os Cookies
+            builder.Services.Configure<CookiePolicyOptions>(options =>
+            {
+                options.CheckConsentNeeded = context => true;
+                options.MinimumSameSitePolicy = SameSiteMode.None;
+                options.ConsentCookieValue = "true";
             });
+
 
             builder.Services.Configure<RazorViewEngineOptions>(options =>
             {
@@ -62,10 +82,16 @@ namespace MeuSiteMVC.Configuration
                 app.UseStatusCodePagesWithRedirects("/erro/{0}");
                 app.UseHsts();
             }
+            app.UseGlobalizationConfig();
+
+            app.UseElmahIo();
+            app.UseElmahIoExtensionsLogging();
 
             app.UseHttpsRedirection();
 
             app.UseStaticFiles();
+
+            app.UseCookiePolicy();
 
             app.UseRouting();
 

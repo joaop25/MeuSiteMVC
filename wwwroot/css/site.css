@@ -1,22 +1,101 @@
+/* Tamanho da fonte baseado na largura da tela */
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+/* Foco e estilo dos elementos de botão */
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
+/* Garantir que o HTML ocupe 100% da altura da tela */
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
+/* Margem inferior do body para o rodapé */
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+}
+
+/* Ajuste para imagens */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Garantir que o layout seja responsivo */
+@media (max-width: 768px) {
+    .navbar {
+        font-size: 14px; /* Ajusta o tamanho da fonte para telas menores */
+    }
+
+    .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+
+/* Responsividade do grid para imagens */
+@media (max-width: 576px) {
+    .container {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+/* Flexbox para imagens de países, garantindo que fiquem no layout corretamente */
+.row img {
+    margin-bottom: 10px; /* Espaçamento entre as imagens */
+}
+
+.col-sm-4 {
+    margin-bottom: 20px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Ajuste no rodapé */
+footer {
+    padding: 20px 0;
+    background-color: #f8f9fa;
+    color: #6c757d;
+    text-align: center;
+}
+body {
+    padding-top: 10px;
+}
+
+
+.custom-file-button input[type=file] {
+    margin-left: -2px !important;
+}
+
+    .custom-file-button input[type=file]::-webkit-file-upload-button {
+        display: none;
+    }
+
+    .custom-file-button input[type=file]::file-selector-button {
+        display: none;
+    }
+
+.custom-file-button:hover label {
+    background-color: #dde0e3;
+    cursor: pointer;
 }
