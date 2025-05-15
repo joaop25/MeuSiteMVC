@@ -3,186 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\obj\\Debug\\net8.0\\MeuSiteMVC.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\MeuSiteMVC.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\controllers\\testescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:controllers\\testescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\meusitemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:meusitemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\services\\operacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:services\\operacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\services\\workerbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:services\\workerbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\configuration\\mvcconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:configuration\\mvcconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\configuration\\mvcoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:configuration\\mvcoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\extensions\\apagaelementotaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:extensions\\apagaelementotaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\extensions\\desabilitalinkbyclaimtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:extensions\\desabilitalinkbyclaimtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\extensions\\claimsauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:extensions\\claimsauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\extensions\\botaotaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:extensions\\botaotaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\shared\\_selectlanguagepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\shared\\_selectlanguagepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\shared\\_cookieconsentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\shared\\_cookieconsentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\extensions\\filtroauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:extensions\\filtroauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\areas\\gestao\\controllers\\cadastrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:areas\\gestao\\controllers\\cadastrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\configuration\\globalizationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:configuration\\globalizationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\controllers\\testeefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:controllers\\testeefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\models\\apiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:models\\apiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\resources\\models\\produto.en.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:resources\\models\\produto.en.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\resources\\controllers\\homecontroller.en.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:resources\\controllers\\homecontroller.en.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\viewcomponents\\saudacaoalunoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:viewcomponents\\saudacaoalunoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\alunos\\antiga_index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\alunos\\antiga_index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\alunos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\alunos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\home\\cookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\home\\cookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joao.fernandes\\AppData\\Local\\Temp\\.vsdbgsrc\\ff11de5f07c8ceec5796ef9146a6a6af89c484510678c9a1f26b0aab51d49673\\ElmahIoExtensionsLoggingMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joao.fernandes\\AppData\\Local\\Temp\\.vsdbgsrc\\d8933d8c84a635e1c37e9eb18c6bd032217008a8799fd62d3548cc8ad96b6005\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\configuration\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:configuration\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\configuration\\loggingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:configuration\\loggingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\controllers\\dilifecyclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:controllers\\dilifecyclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -193,11 +27,23 @@
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\configuration\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:configuration\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:configuration\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joao.fernandes\\AppData\\Roaming\\Microsoft\\UserSecrets\\f588019a-b8f1-436c-ba41-afd66954f2ca\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\models\\apiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:models\\apiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -212,6 +58,18 @@
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\alunos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\extensions\\claimsauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:extensions\\claimsauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -220,16 +78,52 @@
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\extensions\\botaotaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:extensions\\botaotaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\migrations\\20250503115058_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:migrations\\20250503115058_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\controllers\\dilifecyclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:controllers\\dilifecyclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\services\\operacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:services\\operacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\areas\\gestao\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:areas\\gestao\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\areas\\gestao\\controllers\\cadastrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:areas\\gestao\\controllers\\cadastrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -248,6 +142,18 @@
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\shared\\components\\saudacaoaluno\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\alunos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\alunos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\alunos\\antiga_index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\alunos\\antiga_index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -260,16 +166,36 @@
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\alunos\\antigo_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\alunos\\antigo_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\controllers\\testescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:controllers\\testescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\controllers\\testeefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:controllers\\testeefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\migrations\\20250416003439_v01_meusitemvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:migrations\\20250416003439_v01_meusitemvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\viewcomponents\\saudacaoalunoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:viewcomponents\\saudacaoalunoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joao.fernandes\\AppData\\Local\\SourceServer\\bbc97c7d228f500b6588c33187fe917e576191488276e34306c0dd45db0fb34f\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -277,10 +203,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\migrations\\20250418102821_01meusitemvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:migrations\\20250418102821_01meusitemvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\migrations\\20250509232103_adicionandoimagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:migrations\\20250509232103_adicionandoimagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -290,7 +212,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -302,368 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MeuSiteMVC.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\obj\\Debug\\net8.0\\MeuSiteMVC.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\MeuSiteMVC.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\obj\\Debug\\net8.0\\MeuSiteMVC.AssemblyInfo.cs*",
-              "RelativeToolTip": "obj\\Debug\\net8.0\\MeuSiteMVC.AssemblyInfo.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T00:45:03.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeToolTip": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T00:44:47.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Operacao.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Services\\Operacao.cs",
-              "RelativeDocumentMoniker": "Services\\Operacao.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Services\\Operacao.cs",
-              "RelativeToolTip": "Services\\Operacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T23:25:16.594Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "MvcConfig.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Configuration\\MvcConfig.cs",
-              "RelativeDocumentMoniker": "Configuration\\MvcConfig.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Configuration\\MvcConfig.cs",
-              "RelativeToolTip": "Configuration\\MvcConfig.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwEIAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T00:16:41.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AlunosController.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\AlunosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AlunosController.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\AlunosController.cs",
-              "RelativeToolTip": "Controllers\\AlunosController.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAcwKMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T22:40:38.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TestesController.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\TestesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TestesController.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\TestesController.cs",
-              "RelativeToolTip": "Controllers\\TestesController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T23:39:16.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T00:09:31.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ApagaElementoTagHelper.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Extensions\\ApagaElementoTagHelper.cs",
-              "RelativeDocumentMoniker": "Extensions\\ApagaElementoTagHelper.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Extensions\\ApagaElementoTagHelper.cs",
-              "RelativeToolTip": "Extensions\\ApagaElementoTagHelper.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T23:31:27.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WorkerBackgroundService.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Services\\WorkerBackgroundService.cs",
-              "RelativeDocumentMoniker": "Services\\WorkerBackgroundService.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Services\\WorkerBackgroundService.cs",
-              "RelativeToolTip": "Services\\WorkerBackgroundService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T00:14:32.541Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MeuSiteMVC.csproj",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\MeuSiteMVC.csproj",
-              "RelativeDocumentMoniker": "MeuSiteMVC.csproj",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\MeuSiteMVC.csproj",
-              "RelativeToolTip": "MeuSiteMVC.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-13T00:51:29.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Index.cshtml",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\Index.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Index.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAIBJwDMAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T11:55:26.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Alunos\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Alunos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Alunos\\Index.cshtml",
-              "RelativeToolTip": "Views\\Alunos\\Index.cshtml",
-              "ViewState": "AgIAADoAAAAAAAAAAIBJwEcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-26T14:40:11.462Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BotaoTagHelper.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Extensions\\BotaoTagHelper.cs",
-              "RelativeDocumentMoniker": "Extensions\\BotaoTagHelper.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Extensions\\BotaoTagHelper.cs",
-              "RelativeToolTip": "Extensions\\BotaoTagHelper.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA2wEwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T23:28:50.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MvcOptions.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Configuration\\MvcOptions.cs",
-              "RelativeDocumentMoniker": "Configuration\\MvcOptions.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Configuration\\MvcOptions.cs",
-              "RelativeToolTip": "Configuration\\MvcOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T21:27:41.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAIBJwFIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T23:57:09.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ClaimsAuthorization.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Extensions\\ClaimsAuthorization.cs",
-              "RelativeDocumentMoniker": "Extensions\\ClaimsAuthorization.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Extensions\\ClaimsAuthorization.cs",
-              "RelativeToolTip": "Extensions\\ClaimsAuthorization.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwBwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T10:26:51.064Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DesabilitaLinkByClaimTagHelper.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Extensions\\DesabilitaLinkByClaimTagHelper.cs",
-              "RelativeDocumentMoniker": "Extensions\\DesabilitaLinkByClaimTagHelper.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Extensions\\DesabilitaLinkByClaimTagHelper.cs",
-              "RelativeToolTip": "Extensions\\DesabilitaLinkByClaimTagHelper.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T22:52:09.19Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_SelectLanguagePartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\_SelectLanguagePartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_SelectLanguagePartial.cshtml",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\_SelectLanguagePartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_SelectLanguagePartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T21:42:38.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAowBIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T11:55:43.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-26T15:01:53.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_CookieConsentPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\_CookieConsentPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_CookieConsentPartial.cshtml",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\_CookieConsentPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_CookieConsentPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T18:59:32.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "FiltroAuditoria.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Extensions\\FiltroAuditoria.cs",
-              "RelativeDocumentMoniker": "Extensions\\FiltroAuditoria.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Extensions\\FiltroAuditoria.cs",
-              "RelativeToolTip": "Extensions\\FiltroAuditoria.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T23:27:22.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T00:23:00.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CadastroController.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Areas\\Gestao\\Controllers\\CadastroController.cs",
-              "RelativeDocumentMoniker": "Areas\\Gestao\\Controllers\\CadastroController.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Areas\\Gestao\\Controllers\\CadastroController.cs",
-              "RelativeToolTip": "Areas\\Gestao\\Controllers\\CadastroController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T22:57:37.99Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "GlobalizationConfig.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Configuration\\GlobalizationConfig.cs",
-              "RelativeDocumentMoniker": "Configuration\\GlobalizationConfig.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Configuration\\GlobalizationConfig.cs",
-              "RelativeToolTip": "Configuration\\GlobalizationConfig.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T23:42:48.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ModelsController.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\ModelsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ModelsController.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\ModelsController.cs",
-              "RelativeToolTip": "Controllers\\ModelsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T22:59:52.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "TesteEFController.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\TesteEFController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TesteEFController.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\TesteEFController.cs",
-              "RelativeToolTip": "Controllers\\TesteEFController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAWwBUAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T10:34:19.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ApiConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\ApiConfiguration.cs",
-              "RelativeDocumentMoniker": "Models\\ApiConfiguration.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\ApiConfiguration.cs",
-              "RelativeToolTip": "Models\\ApiConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T00:20:13.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Produto.en.resx",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Resources\\Models\\Produto.en.resx",
-              "RelativeDocumentMoniker": "Resources\\Models\\Produto.en.resx",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Resources\\Models\\Produto.en.resx",
-              "RelativeToolTip": "Resources\\Models\\Produto.en.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-05-12T23:02:42.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "SaudacaoAlunoViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\ViewComponents\\SaudacaoAlunoViewComponent.cs",
-              "RelativeDocumentMoniker": "ViewComponents\\SaudacaoAlunoViewComponent.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\ViewComponents\\SaudacaoAlunoViewComponent.cs",
-              "RelativeToolTip": "ViewComponents\\SaudacaoAlunoViewComponent.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T23:50:06.055Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
               "Title": "DependencyInjectionConfig.cs",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Configuration\\DependencyInjectionConfig.cs",
               "RelativeDocumentMoniker": "Configuration\\DependencyInjectionConfig.cs",
@@ -671,154 +232,12 @@
               "RelativeToolTip": "Configuration\\DependencyInjectionConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T11:14:02.169Z"
+              "WhenOpened": "2025-05-04T11:14:02.169Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "HomeController.en.resx",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Resources\\Controllers\\HomeController.en.resx",
-              "RelativeDocumentMoniker": "Resources\\Controllers\\HomeController.en.resx",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Resources\\Controllers\\HomeController.en.resx",
-              "RelativeToolTip": "Resources\\Controllers\\HomeController.en.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-05-08T21:59:07.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Antiga_Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Alunos\\Antiga_Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Alunos\\Antiga_Index.cshtml",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Alunos\\Antiga_Index.cshtml",
-              "RelativeToolTip": "Views\\Alunos\\Antiga_Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAIBJwAYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-25T22:47:38.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAIBJwDYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T23:04:11.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Alunos\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Alunos\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Alunos\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Alunos\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-26T14:57:49.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T22:01:35.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\Aluno.cs",
-              "RelativeDocumentMoniker": "Models\\Aluno.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\Aluno.cs",
-              "RelativeToolTip": "Models\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T10:41:19.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Cookie.cshtml",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Home\\Cookie.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Cookie.cshtml",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Home\\Cookie.cshtml",
-              "RelativeToolTip": "Views\\Home\\Cookie.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T11:25:23.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAswFoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-08T22:31:31.642Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\AppData\\Local\\Temp\\.vsdbgsrc\\d8933d8c84a635e1c37e9eb18c6bd032217008a8799fd62d3548cc8ad96b6005\\Task.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d8933d8c84a635e1c37e9eb18c6bd032217008a8799fd62d3548cc8ad96b6005\\Task.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\AppData\\Local\\Temp\\.vsdbgsrc\\d8933d8c84a635e1c37e9eb18c6bd032217008a8799fd62d3548cc8ad96b6005\\Task.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d8933d8c84a635e1c37e9eb18c6bd032217008a8799fd62d3548cc8ad96b6005\\Task.cs",
-              "ViewState": "AgIAAI8NAAAAAAAAAAAewJ4NAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T23:38:58.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ElmahIoExtensionsLoggingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\AppData\\Local\\Temp\\.vsdbgsrc\\ff11de5f07c8ceec5796ef9146a6a6af89c484510678c9a1f26b0aab51d49673\\ElmahIoExtensionsLoggingMiddleware.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ff11de5f07c8ceec5796ef9146a6a6af89c484510678c9a1f26b0aab51d49673\\ElmahIoExtensionsLoggingMiddleware.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\AppData\\Local\\Temp\\.vsdbgsrc\\ff11de5f07c8ceec5796ef9146a6a6af89c484510678c9a1f26b0aab51d49673\\ElmahIoExtensionsLoggingMiddleware.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ff11de5f07c8ceec5796ef9146a6a6af89c484510678c9a1f26b0aab51d49673\\ElmahIoExtensionsLoggingMiddleware.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAewD0AAAADAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T23:40:58.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Alunos\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Alunos\\Create.cshtml",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Alunos\\Create.cshtml",
-              "RelativeToolTip": "Views\\Alunos\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-29T23:53:49.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "20250509232103_adicionandoImagem.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Migrations\\20250509232103_adicionandoImagem.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250509232103_adicionandoImagem.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Migrations\\20250509232103_adicionandoImagem.cs",
-              "RelativeToolTip": "Migrations\\20250509232103_adicionandoImagem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T23:21:03.426Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 6,
               "Title": "IdentityConfig.cs",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Configuration\\IdentityConfig.cs",
               "RelativeDocumentMoniker": "Configuration\\IdentityConfig.cs",
@@ -826,59 +245,81 @@
               "RelativeToolTip": "Configuration\\IdentityConfig.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T11:14:46.739Z"
+              "WhenOpened": "2025-05-04T11:14:46.739Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "LoggingConfig.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Configuration\\LoggingConfig.cs",
-              "RelativeDocumentMoniker": "Configuration\\LoggingConfig.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Configuration\\LoggingConfig.cs",
-              "RelativeToolTip": "Configuration\\LoggingConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABVAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "Controllers\\AlunosController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wCMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T22:53:10.556Z"
+              "WhenOpened": "2025-04-25T22:19:27.959Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "DiLifeCycleController.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\DiLifeCycleController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DiLifeCycleController.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\DiLifeCycleController.cs",
-              "RelativeToolTip": "Controllers\\DiLifeCycleController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvxUAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T23:29:41.528Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T01:11:45.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-16T00:25:57.253Z"
+              "WhenOpened": "2025-04-16T00:25:57.253Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 1,
+              "Title": "MvcConfig.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Configuration\\MvcConfig.cs",
+              "RelativeDocumentMoniker": "Configuration\\MvcConfig.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Configuration\\MvcConfig.cs",
+              "RelativeToolTip": "Configuration\\MvcConfig.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:15:06.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T00:09:31.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:04:11.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -886,11 +327,12 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-04T11:38:26.141Z"
+              "WhenOpened": "2025-05-04T11:38:26.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 8,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -898,11 +340,12 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T10:41:02.645Z"
+              "WhenOpened": "2025-04-12T10:41:02.645Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 9,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\AppData\\Roaming\\Microsoft\\UserSecrets\\f588019a-b8f1-436c-ba41-afd66954f2ca\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\f588019a-b8f1-436c-ba41-afd66954f2ca\\secrets.json",
@@ -910,11 +353,25 @@
               "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\f588019a-b8f1-436c-ba41-afd66954f2ca\\secrets.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-06T00:29:09.026Z"
+              "WhenOpened": "2025-05-06T00:29:09.026Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 10,
+              "Title": "ApiConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\ApiConfiguration.cs",
+              "RelativeDocumentMoniker": "Models\\ApiConfiguration.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\ApiConfiguration.cs",
+              "RelativeToolTip": "Models\\ApiConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:20:13.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ConfirmEmail.cshtml",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
@@ -922,11 +379,24 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T13:49:06.872Z"
+              "WhenOpened": "2025-05-05T13:49:06.872Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 16,
+              "Title": "ClaimsAuthorization.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Extensions\\ClaimsAuthorization.cs",
+              "RelativeDocumentMoniker": "Extensions\\ClaimsAuthorization.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Extensions\\ClaimsAuthorization.cs",
+              "RelativeToolTip": "Extensions\\ClaimsAuthorization.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:26:51.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "_StatusMessage.cshtml",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
@@ -938,19 +408,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 15,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\Aluno.cs",
+              "RelativeToolTip": "Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:41:19.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Alunos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Alunos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Alunos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Alunos\\Index.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAE0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T14:40:11.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Alunos\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Alunos\\Details.cshtml",
               "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Alunos\\Details.cshtml",
               "RelativeToolTip": "Views\\Alunos\\Details.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAIBZwAAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-26T14:55:56.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 17,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -962,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 18,
               "Title": "favicon.ico - Icon [32x32, 32 bits, BMP]",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\favicon.ico",
               "RelativeDocumentMoniker": "wwwroot\\favicon.ico",
@@ -974,7 +468,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T01:11:45.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "20250503115058_Identity.cs",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Migrations\\20250503115058_Identity.cs",
               "RelativeDocumentMoniker": "Migrations\\20250503115058_Identity.cs",
@@ -986,7 +492,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 20,
+              "Title": "BotaoTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Extensions\\BotaoTagHelper.cs",
+              "RelativeDocumentMoniker": "Extensions\\BotaoTagHelper.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Extensions\\BotaoTagHelper.cs",
+              "RelativeToolTip": "Extensions\\BotaoTagHelper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:28:50.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Index.cshtml",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\Index.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T11:55:26.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
@@ -998,19 +528,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 23,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T11:55:43.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwEoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T23:57:09.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Areas\\Gestao\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Areas\\Gestao\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Areas\\Gestao\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Areas\\Gestao\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAACBjwFgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAIBJwFgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-30T23:13:51.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:23:00.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DiLifeCycleController.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\DiLifeCycleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DiLifeCycleController.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\DiLifeCycleController.cs",
+              "RelativeToolTip": "Controllers\\DiLifeCycleController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywBUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:29:41.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CadastroController.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Areas\\Gestao\\Controllers\\CadastroController.cs",
+              "RelativeDocumentMoniker": "Areas\\Gestao\\Controllers\\CadastroController.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Areas\\Gestao\\Controllers\\CadastroController.cs",
+              "RelativeToolTip": "Areas\\Gestao\\Controllers\\CadastroController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T22:57:37.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Operacao.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Services\\Operacao.cs",
+              "RelativeDocumentMoniker": "Services\\Operacao.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Services\\Operacao.cs",
+              "RelativeToolTip": "Services\\Operacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:25:16.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -1022,7 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 34,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\Components\\SaudacaoAluno\\Default.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\SaudacaoAluno\\Default.cshtml",
@@ -1034,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 31,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -1046,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 33,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Areas\\Gestao\\Views\\Cadastro\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Gestao\\Views\\Cadastro\\Index.cshtml",
@@ -1058,7 +660,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Alunos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Alunos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Alunos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Alunos\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T23:53:49.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Alunos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Alunos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Alunos\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Alunos\\Edit.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T14:57:49.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Antiga_Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Alunos\\Antiga_Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Alunos\\Antiga_Index.cshtml",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Alunos\\Antiga_Index.cshtml",
+              "RelativeToolTip": "Views\\Alunos\\Antiga_Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T22:47:38.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
               "Title": "jquery.js",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
               "RelativeDocumentMoniker": "wwwroot\\lib\\jquery\\dist\\jquery.js",
@@ -1070,7 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 39,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -1082,7 +720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 38,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -1094,7 +732,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 41,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T15:01:53.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
               "Title": "Antigo_Details.cshtml",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Alunos\\Antigo_Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Alunos\\Antigo_Details.cshtml",
@@ -1106,7 +756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 44,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "Models\\Produto.cs",
@@ -1118,7 +768,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 45,
+              "Title": "TesteEFController.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\TesteEFController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TesteEFController.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\TesteEFController.cs",
+              "RelativeToolTip": "Controllers\\TesteEFController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAWwBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:34:19.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TestesController.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\TestesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestesController.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\TestesController.cs",
+              "RelativeToolTip": "Controllers\\TestesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:39:16.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\ModelsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ModelsController.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\ModelsController.cs",
+              "RelativeToolTip": "Controllers\\ModelsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T22:59:52.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
               "Title": "20250416003439_v01_MeuSiteMVC.cs",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Migrations\\20250416003439_v01_MeuSiteMVC.cs",
               "RelativeDocumentMoniker": "Migrations\\20250416003439_v01_MeuSiteMVC.cs",
@@ -1130,7 +818,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 50,
               "Title": "20250418102821_01MeuSiteMVC.cs",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Migrations\\20250418102821_01MeuSiteMVC.cs",
               "RelativeDocumentMoniker": "Migrations\\20250418102821_01MeuSiteMVC.cs",
@@ -1142,7 +830,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 48,
+              "Title": "SaudacaoAlunoViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\ViewComponents\\SaudacaoAlunoViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\SaudacaoAlunoViewComponent.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\ViewComponents\\SaudacaoAlunoViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\SaudacaoAlunoViewComponent.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T23:50:06.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\AppData\\Local\\SourceServer\\bbc97c7d228f500b6588c33187fe917e576191488276e34306c0dd45db0fb34f\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\bbc97c7d228f500b6588c33187fe917e576191488276e34306c0dd45db0fb34f\\Controllers\\HomeController.cs",
@@ -1151,10 +851,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T23:22:31.86Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             }
           ]
         }

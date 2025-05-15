@@ -1,11 +1,14 @@
 ﻿using MeuSiteMVC.Data;
-using MeuSiteMVC.Extensions;
 using MeuSiteMVC.Models;
+=======
+main
 using MeuSiteMVC.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
+=======
+ main
 
 namespace MeuSiteMVC.Configuration
 {
@@ -19,30 +22,13 @@ namespace MeuSiteMVC.Configuration
                 .AddJsonFile($"appsettings.{builder.Environment.EnvironmentName}.json", true, true)
                 .AddEnvironmentVariables()
                 .AddUserSecrets(Assembly.GetExecutingAssembly(), true); 
-
-
-            builder.Services.AddResponseCaching();
+                .AddEnvironmentVariables();
+                main
 
             builder.Services.AddControllersWithViews(options =>
             {
                 options.Filters.Add(new AutoValidateAntiforgeryTokenAttribute());
-                options.Filters.Add(typeof(FiltroAuditoria));
-
-                MvcOptionsConfig.ConfigurarMensagensDeModelBinding(options.ModelBindingMessageProvider);
-            })
-                .AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix)
-                .AddDataAnnotationsLocalization();
-
-
-
-            //Solicitando a permissão do usuario para utilizar os Cookies
-            builder.Services.Configure<CookiePolicyOptions>(options =>
-            {
-                options.CheckConsentNeeded = context => true;
-                options.MinimumSameSitePolicy = SameSiteMode.None;
-                options.ConsentCookieValue = "true";
             });
-
 
             builder.Services.Configure<RazorViewEngineOptions>(options =>
             {
@@ -67,8 +53,7 @@ namespace MeuSiteMVC.Configuration
             builder.Services.Configure<ApiConfiguration>(
                 builder.Configuration.GetSection(ApiConfiguration.ConfigName));
 
-
-            builder.Services.AddHostedService<WorkerBackgroundService>();
+main
             return builder;
         }
 
@@ -76,24 +61,25 @@ namespace MeuSiteMVC.Configuration
         {
             if (app.Environment.IsDevelopment())
             {
+
                 app.UseDeveloperExceptionPage();
             }
             else
             {
                 app.UseExceptionHandler("/erro/500");
                 app.UseStatusCodePagesWithRedirects("/erro/{0}");
+
+
+            }
+            else
+            {
+ main
                 app.UseHsts();
             }
-            app.UseGlobalizationConfig();
-
-            app.UseElmahIo();
-            app.UseElmahIoExtensionsLogging();
 
             app.UseHttpsRedirection();
 
             app.UseStaticFiles();
-
-            app.UseCookiePolicy();
 
             app.UseRouting();
 
