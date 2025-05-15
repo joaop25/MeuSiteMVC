@@ -1,7 +1,7 @@
 ﻿@model Aluno
 
 @{
-    ViewData["Title"] = "Cadastrar Aluno";
+    ViewData["Title"] = "Cadastrar Alunos";
 }
 
 <div class="container mt-4">
@@ -10,7 +10,8 @@
 
     <div class="row justify-content-center">
         <div class="col-md-6">
-            <form asp-action="Edit" class="bg-white p-4 rounded shadow-sm">
+            <form enctype="multipart/form-data" asp-action="Edit">
+
                 <div asp-validation-summary="All" class="alert alert-danger" role="alert"></div>
 
                 <div class="mb-3">
@@ -23,6 +24,18 @@
                     <label asp-for="DataNascimento" class="form-label">Data de Nascimento</label>
                     <input asp-for="DataNascimento" type="date" class="form-control" />
                     <span asp-validation-for="DataNascimento" class="text-danger small"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Imagem Atual</label><br />
+                    <img src="~/images/@Model.Imagem" alt="@Model.Imagem" style="width: 70px; height: 100px" />
+                </div>
+
+                <!-- CAMPO DE IMAGEM AJUSTADO -->
+                <div class="mb-3">
+                    <label asp-for="ImagemUpload" class="form-label">Nova Imagem</label>
+                    <input asp-for="ImagemUpload" type="file" class="form-control form-control-sm" />
+                    <span asp-validation-for="ImagemUpload" class="text-danger small"></span>
                 </div>
 
                 <div class="mb-3">

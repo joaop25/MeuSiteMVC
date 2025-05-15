@@ -5,12 +5,14 @@
 <style>
     .card-hover {
         transition: transform 0.3s ease, box-shadow 0.3s ease;
+        background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+        position: relative; /* Adicionado para posicionamento relativo */
     }
 
-    .card-hover:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
-    }
+        .card-hover:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+        }
 
     .search-form input {
         border-radius: 20px 0 0 20px;
@@ -25,18 +27,54 @@
         flex-direction: column;
     }
 
-    .card-body .content {
-        flex-grow: 1;
+        .card-body .content {
+            flex-grow: 1;
+        }
+
+        .card-body .actions {
+            margin-top: auto;
+        }
+
+    /* Novos estilos para a imagem */
+    .card-img-container {
+        position: absolute;
+        top: 15px;
+        right: 15px;
+        width: 100px;
+        height: 100px;
+        border: 3px solid #fff;
+        border-radius: 50%;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        overflow: hidden;
+        transition: all 0.3s ease;
+        z-index: 1;
     }
 
-    .card-body .actions {
-        margin-top: auto;
+        .card-img-container:hover {
+            transform: scale(1.1);
+            box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+        }
+
+        .card-img-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+    .img-placeholder {
+        background: linear-gradient(45deg, #6c757d, #adb5bd);
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.5rem;
     }
 </style>
 
 <div class="container mt-5">
     <div class="d-flex justify-content-between align-items-center mb-4">
-        <h2 class="text-start fw-bold text-primary">Lista de Alunos</h2>
+        <!--supress-by-claim-name="Produtos" supress-by-claim-value="AD"    ----- Deixar invisivel um botão caso o usuario não tenha uma claim especifica -->
+        <h2 supress-by-claim-name="Produtos" supress-by-claim-value="AD" class="text-start fw-bold text-primary">Lista de Alunos</h2>
 
         <div class="d-flex gap-2">
             <form asp-action="Index" method="get" class="d-flex search-form" style="max-width: 300px;">
@@ -69,6 +107,20 @@
             {
                 <div class="col">
                     <div class="card h-100 border-0 shadow-sm rounded-4 card-hover">
+                        <!-- Container da Imagem -->
+                        <div class="card-img-container">
+                            @if (!string.IsNullOrEmpty(item.Imagem))
+                            {
+                                <img src="/images/@item.Imagem"alt="Foto de @item.Nome">
+                            }
+                            else
+                            {
+                                <div class="img-placeholder">
+                                    <i class="bi bi-person-fill"></i>
+                                </div>
+                            }
+                        </div>
+
                         <div class="card-body p-4">
                             <div class="content">
                                 <h5 class="card-title mb-3 fw-bold text-secondary">@item.Nome</h5>
@@ -94,10 +146,11 @@
                                 <a class="btn btn-outline-primary btn-sm" asp-action="Details" asp-route-id="@item.Id">
                                     <i class="bi bi-eye"></i> Detalhes
                                 </a>
-                                <a class="btn btn-outline-warning btn-sm" asp-action="Edit" asp-route-id="@item.Id">
+                                <a class="btn btn-outline-warning btn-sm" disable-by-claim-name="Produtos" disable-by-claim-value="TE" asp-action="Edit" asp-route-id="@item.Id">
                                     <i class="bi bi-pencil"></i> Editar
                                 </a>
-                                <a class="btn btn-outline-danger btn-sm" asp-action="Delete" asp-route-id="@item.Id">
+                                <a  href="#" class="btn btn-outline-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal"
+                                   onclick="setDeleteUrl('@item.Id')">
                                     <i class="bi bi-trash"></i> Deletar
                                 </a>
                             </div>
@@ -114,3 +167,31 @@
         </div>
     }
 </div>
+
+<!-- Modal de confirmação (mantido igual) -->
+<div class="modal fade" id="deleteModal" tabindex="-1" aria-labelledby="deleteModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header bg-danger text-white">
+                <h5 class="modal-title" id="deleteModalLabel"><i class="bi bi-exclamation-triangle-fill"></i> Confirmar Exclusão</h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Fechar"></button>
+            </div>
+            <div class="modal-body">
+                Tem certeza de que deseja excluir este aluno?
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                <button type="button" class="btn btn-danger" id="confirmDeleteBtn">Excluir</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function setDeleteUrl(alunoId) {
+        var deleteUrl = '@Url.Action("deletar", "Alunos")/' + alunoId;
+        document.getElementById('confirmDeleteBtn').onclick = function() {
+            window.location.href = deleteUrl;
+        };
+    }
+</script>

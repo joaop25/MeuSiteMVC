@@ -1,0 +1,78 @@
+﻿@using Microsoft.AspNetCore.Http.Features
+
+@{
+    var consentFeature = Context.Features.Get<ITrackingConsentFeature>();
+    var showBanner = !consentFeature?.CanTrack ?? false;
+    var cookieString = consentFeature?.CreateConsentCookie();
+}
+
+@if (showBanner)
+{
+    <div id="cookieConsent" class="cookie-banner shadow-lg rounded">
+        <div class="cookie-content">
+            <p class="mb-2">
+                Usamos cookies para melhorar sua experiência no site.
+                <a href="/Privacy" class="cookie-link">Saiba mais</a>.
+            </p>
+            <div class="d-flex justify-content-end gap-2">
+                <button id="acceptCookies" class="btn btn-success btn-sm" data-cookie-string="@cookieString">Aceitar</button>
+                <button class="btn btn-outline-secondary btn-sm" onclick="document.getElementById('cookieConsent').remove();">Fechar</button>
+            </div>
+        </div>
+    </div>
+}
+
+<style>
+    .cookie-banner {
+        position: fixed;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        background-color: #e3f2fd; /* azul claro */
+        color: #0d47a1; /* azul escuro para o texto */
+        border: 1px solid #90caf9;
+        padding: 20px 30px;
+        border-radius: 10px;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+        font-size: 1rem;
+        z-index: 1050;
+        text-align: center;
+        width: 400px;
+    }
+
+        .cookie-banner .btn-accept {
+            margin-top: 15px;
+            width: 100%;
+            font-size: 1rem;
+            padding: 10px;
+            background-color: #1976d2; /* botão azul */
+            border: none;
+            color: white;
+        }
+
+            .cookie-banner .btn-accept:hover {
+                background-color: #1565c0;
+            }
+
+    media (max-width: 576px) {
+        .cookie-banner
+
+    {
+        width: 90%;
+    }
+
+    }
+</style>
+
+<!-- Script para salvar o cookie -->
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const acceptBtn = document.getElementById('acceptCookies');
+        if (acceptBtn) {
+            acceptBtn.addEventListener('click', function () {
+                document.cookie = acceptBtn.dataset.cookieString;
+                document.getElementById('cookieConsent').remove();
+            });
+        }
+    });
+</script>
