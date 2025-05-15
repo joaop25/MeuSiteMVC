@@ -13,13 +13,7 @@ using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("f588019a-b8f1-436c-ba41-afd66954f2ca")]
-[assembly: System.Reflection.AssemblyCompanyAttribute("MeuSiteMVC")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81b0f5ad4e4444cd5c05a66c3621faa0f175a79e")]
-[assembly: System.Reflection.AssemblyProductAttribute("MeuSiteMVC")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MeuSiteMVC")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 

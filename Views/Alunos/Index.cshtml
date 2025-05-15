@@ -73,7 +73,8 @@
 
 <div class="container mt-5">
     <div class="d-flex justify-content-between align-items-center mb-4">
-        <h2 class="text-start fw-bold text-primary">Lista de Alunos</h2>
+        <!--supress-by-claim-name="Produtos" supress-by-claim-value="AD"    ----- Deixar invisivel um botão caso o usuario não tenha uma claim especifica -->
+        <h2 supress-by-claim-name="Produtos" supress-by-claim-value="AD" class="text-start fw-bold text-primary">Lista de Alunos</h2>
 
         <div class="d-flex gap-2">
             <form asp-action="Index" method="get" class="d-flex search-form" style="max-width: 300px;">
@@ -145,10 +146,10 @@
                                 <a class="btn btn-outline-primary btn-sm" asp-action="Details" asp-route-id="@item.Id">
                                     <i class="bi bi-eye"></i> Detalhes
                                 </a>
-                                <a class="btn btn-outline-warning btn-sm" asp-action="Edit" asp-route-id="@item.Id">
+                                <a class="btn btn-outline-warning btn-sm" disable-by-claim-name="Produtos" disable-by-claim-value="TE" asp-action="Edit" asp-route-id="@item.Id">
                                     <i class="bi bi-pencil"></i> Editar
                                 </a>
-                                <a href="#" class="btn btn-outline-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal"
+                                <a  href="#" class="btn btn-outline-danger btn-sm" data-bs-toggle="modal" data-bs-target="#deleteModal"
                                    onclick="setDeleteUrl('@item.Id')">
                                     <i class="bi bi-trash"></i> Deletar
                                 </a>
@@ -169,7 +170,21 @@
 
 <!-- Modal de confirmação (mantido igual) -->
 <div class="modal fade" id="deleteModal" tabindex="-1" aria-labelledby="deleteModalLabel" aria-hidden="true">
-    <!-- ... mesmo conteúdo do modal ... -->
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header bg-danger text-white">
+                <h5 class="modal-title" id="deleteModalLabel"><i class="bi bi-exclamation-triangle-fill"></i> Confirmar Exclusão</h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Fechar"></button>
+            </div>
+            <div class="modal-body">
+                Tem certeza de que deseja excluir este aluno?
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                <button type="button" class="btn btn-danger" id="confirmDeleteBtn">Excluir</button>
+            </div>
+        </div>
+    </div>
 </div>
 
 <script>

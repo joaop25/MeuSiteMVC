@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yP64t9ZTQCULRCpLNbJJ5bKZ0kVo8FKaS4YYs8r3xo4=",
+  "Hash": "asvCIsimfd4V1rPU7RSGt3ZYJIRU11MWeIh3IYCI6X0=",
   "Source": "MeuSiteMVC",
   "BasePath": "_content/MeuSiteMVC",
   "Mode": "Default",
@@ -1359,6 +1359,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\images\\29e04385-a4b0-4230-bae5-a9696927d44c_645aabd8f6bb3d0f962d0cce_jeff-bezos-fundador-amazon-foto-divulgacao.jpg",
+      "SourceId": "MeuSiteMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\",
+      "BasePath": "_content/MeuSiteMVC",
+      "RelativePath": "images/29e04385-a4b0-4230-bae5-a9696927d44c_645aabd8f6bb3d0f962d0cce_jeff-bezos-fundador-amazon-foto-divulgacao#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ncpqoal241",
+      "Integrity": "Ka16Sfe91ezQ/xC/5hc1ahSZljQ2odfSfaDNHzcpvTU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\29e04385-a4b0-4230-bae5-a9696927d44c_645aabd8f6bb3d0f962d0cce_jeff-bezos-fundador-amazon-foto-divulgacao.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\images\\2ff259e3-2ee6-410e-9e9f-316c2498612c_20191106064628.jpg",
+      "SourceId": "MeuSiteMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\",
+      "BasePath": "_content/MeuSiteMVC",
+      "RelativePath": "images/2ff259e3-2ee6-410e-9e9f-316c2498612c_20191106064628#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "weul9mthko",
+      "Integrity": "OF57IeZN1W0k4LK9xUMwKcmN7JXI1UpRTe8A2RG7xBw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2ff259e3-2ee6-410e-9e9f-316c2498612c_20191106064628.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\images\\88afe70f-fe23-4297-aee6-30b32b3d7d31_licensed-image.jpg",
+      "SourceId": "MeuSiteMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\",
+      "BasePath": "_content/MeuSiteMVC",
+      "RelativePath": "images/88afe70f-fe23-4297-aee6-30b32b3d7d31_licensed-image#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "haa9t7lwve",
+      "Integrity": "p1pMb1NibBDPzpS8ePFib0oNCpMgBl5ETvZvbGibtAI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\88afe70f-fe23-4297-aee6-30b32b3d7d31_licensed-image.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\images\\89593bff-0c70-4342-b36c-df9a0bdc28b1_bill-gates.webp",
+      "SourceId": "MeuSiteMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\",
+      "BasePath": "_content/MeuSiteMVC",
+      "RelativePath": "images/89593bff-0c70-4342-b36c-df9a0bdc28b1_bill-gates#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "09q7wfj02k",
+      "Integrity": "pGypoy/JlBFIa+TSrnOLYhwxrCjIr2MH7r/9ttj5A8M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\89593bff-0c70-4342-b36c-df9a0bdc28b1_bill-gates.webp"
     },
     {
       "Identity": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\images\\bfb107c3-742f-45d8-bf69-a1f8ceca9cf7_hm.jpg",
@@ -5024,6 +5108,334 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "images/29e04385-a4b0-4230-bae5-a9696927d44c_645aabd8f6bb3d0f962d0cce_jeff-bezos-fundador-amazon-foto-divulgacao.jpg",
+      "AssetFile": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\images\\29e04385-a4b0-4230-bae5-a9696927d44c_645aabd8f6bb3d0f962d0cce_jeff-bezos-fundador-amazon-foto-divulgacao.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ka16Sfe91ezQ/xC/5hc1ahSZljQ2odfSfaDNHzcpvTU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 23:55:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ka16Sfe91ezQ/xC/5hc1ahSZljQ2odfSfaDNHzcpvTU="
+        }
+      ]
+    },
+    {
+      "Route": "images/29e04385-a4b0-4230-bae5-a9696927d44c_645aabd8f6bb3d0f962d0cce_jeff-bezos-fundador-amazon-foto-divulgacao.ncpqoal241.jpg",
+      "AssetFile": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\images\\29e04385-a4b0-4230-bae5-a9696927d44c_645aabd8f6bb3d0f962d0cce_jeff-bezos-fundador-amazon-foto-divulgacao.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ka16Sfe91ezQ/xC/5hc1ahSZljQ2odfSfaDNHzcpvTU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 23:55:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ncpqoal241"
+        },
+        {
+          "Name": "label",
+          "Value": "images/29e04385-a4b0-4230-bae5-a9696927d44c_645aabd8f6bb3d0f962d0cce_jeff-bezos-fundador-amazon-foto-divulgacao.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ka16Sfe91ezQ/xC/5hc1ahSZljQ2odfSfaDNHzcpvTU="
+        }
+      ]
+    },
+    {
+      "Route": "images/2ff259e3-2ee6-410e-9e9f-316c2498612c_20191106064628.jpg",
+      "AssetFile": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\images\\2ff259e3-2ee6-410e-9e9f-316c2498612c_20191106064628.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OF57IeZN1W0k4LK9xUMwKcmN7JXI1UpRTe8A2RG7xBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 23:30:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OF57IeZN1W0k4LK9xUMwKcmN7JXI1UpRTe8A2RG7xBw="
+        }
+      ]
+    },
+    {
+      "Route": "images/2ff259e3-2ee6-410e-9e9f-316c2498612c_20191106064628.weul9mthko.jpg",
+      "AssetFile": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\images\\2ff259e3-2ee6-410e-9e9f-316c2498612c_20191106064628.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OF57IeZN1W0k4LK9xUMwKcmN7JXI1UpRTe8A2RG7xBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 23:30:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "weul9mthko"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2ff259e3-2ee6-410e-9e9f-316c2498612c_20191106064628.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OF57IeZN1W0k4LK9xUMwKcmN7JXI1UpRTe8A2RG7xBw="
+        }
+      ]
+    },
+    {
+      "Route": "images/88afe70f-fe23-4297-aee6-30b32b3d7d31_licensed-image.haa9t7lwve.jpg",
+      "AssetFile": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\images\\88afe70f-fe23-4297-aee6-30b32b3d7d31_licensed-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p1pMb1NibBDPzpS8ePFib0oNCpMgBl5ETvZvbGibtAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 23:26:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "haa9t7lwve"
+        },
+        {
+          "Name": "label",
+          "Value": "images/88afe70f-fe23-4297-aee6-30b32b3d7d31_licensed-image.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p1pMb1NibBDPzpS8ePFib0oNCpMgBl5ETvZvbGibtAI="
+        }
+      ]
+    },
+    {
+      "Route": "images/88afe70f-fe23-4297-aee6-30b32b3d7d31_licensed-image.jpg",
+      "AssetFile": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\images\\88afe70f-fe23-4297-aee6-30b32b3d7d31_licensed-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p1pMb1NibBDPzpS8ePFib0oNCpMgBl5ETvZvbGibtAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 23:26:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p1pMb1NibBDPzpS8ePFib0oNCpMgBl5ETvZvbGibtAI="
+        }
+      ]
+    },
+    {
+      "Route": "images/89593bff-0c70-4342-b36c-df9a0bdc28b1_bill-gates.09q7wfj02k.webp",
+      "AssetFile": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\images\\89593bff-0c70-4342-b36c-df9a0bdc28b1_bill-gates.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40334"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pGypoy/JlBFIa+TSrnOLYhwxrCjIr2MH7r/9ttj5A8M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 23:27:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "09q7wfj02k"
+        },
+        {
+          "Name": "label",
+          "Value": "images/89593bff-0c70-4342-b36c-df9a0bdc28b1_bill-gates.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pGypoy/JlBFIa+TSrnOLYhwxrCjIr2MH7r/9ttj5A8M="
+        }
+      ]
+    },
+    {
+      "Route": "images/89593bff-0c70-4342-b36c-df9a0bdc28b1_bill-gates.webp",
+      "AssetFile": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\wwwroot\\images\\89593bff-0c70-4342-b36c-df9a0bdc28b1_bill-gates.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40334"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pGypoy/JlBFIa+TSrnOLYhwxrCjIr2MH7r/9ttj5A8M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 23:27:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pGypoy/JlBFIa+TSrnOLYhwxrCjIr2MH7r/9ttj5A8M="
         }
       ]
     },
@@ -10052,7 +10464,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 22:27:30 GMT"
+          "Value": "Thu, 15 May 2025 22:53:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10097,7 +10509,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 22:27:30 GMT"
+          "Value": "Thu, 15 May 2025 22:53:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10142,7 +10554,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 22:27:30 GMT"
+          "Value": "Thu, 15 May 2025 22:53:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10179,7 +10591,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 08 May 2025 22:27:30 GMT"
+          "Value": "Thu, 15 May 2025 22:53:53 GMT"
         },
         {
           "Name": "Cache-Control",
