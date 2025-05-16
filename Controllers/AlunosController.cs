@@ -34,7 +34,6 @@ namespace MeuSiteMVC.Controllers
             //Uso o IOptions<ApiConfiguration> apiConfiguration
             var apiDomain = ApiConfig.UserSecret;
 
- main
             var alunos = from a in _context.Alunos
                          select a;
 

@@ -1,14 +1,13 @@
 ﻿using MeuSiteMVC.Data;
+using MeuSiteMVC.Extensions;
 using MeuSiteMVC.Models;
-=======
-main
+
 using MeuSiteMVC.Services;
+using Microsoft.AspNetCore.DataProtection;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
-=======
- main
 
 namespace MeuSiteMVC.Configuration
 {
@@ -17,17 +16,34 @@ namespace MeuSiteMVC.Configuration
         public static WebApplicationBuilder AddMvcConfiguration(this WebApplicationBuilder builder)
         {
             builder.Configuration
-                .SetBasePath(builder.Environment.ContentRootPath)
-                .AddJsonFile("appsettings.json", true, true)
-                .AddJsonFile($"appsettings.{builder.Environment.EnvironmentName}.json", true, true)
-                .AddEnvironmentVariables()
-                .AddUserSecrets(Assembly.GetExecutingAssembly(), true); 
-                .AddEnvironmentVariables();
-                main
+            .SetBasePath(builder.Environment.ContentRootPath)
+            .AddJsonFile("appsettings.json", true, true)
+            .AddJsonFile($"appsettings.{builder.Environment.EnvironmentName}.json", true, true)
+            .AddEnvironmentVariables()
+            .AddUserSecrets(Assembly.GetExecutingAssembly(), true);
+
+            builder.Services.AddResponseCaching();
 
             builder.Services.AddControllersWithViews(options =>
             {
                 options.Filters.Add(new AutoValidateAntiforgeryTokenAttribute());
+                options.Filters.Add(typeof(FiltroAuditoria));
+
+                MvcOptionsConfig.ConfigurarMensagensDeModelBinding(options.ModelBindingMessageProvider);
+            })
+                .AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix)
+                .AddDataAnnotationsLocalization();
+
+            builder.Services.AddDataProtection()
+                .PersistKeysToFileSystem(new DirectoryInfo(@"/var/data_protection_keys/"))
+                .SetApplicationName("MinhaAppMVC");
+
+            builder.Services.Configure<CookiePolicyOptions>(options =>
+            {
+                options.CheckConsentNeeded = context => true;
+                // SameSiteMode.Unspecified para garantir o funcionamento do cookie de cultura
+                options.MinimumSameSitePolicy = SameSiteMode.Unspecified;
+                options.ConsentCookieValue = "true";
             });
 
             builder.Services.Configure<RazorViewEngineOptions>(options =>
@@ -53,7 +69,6 @@ namespace MeuSiteMVC.Configuration
             builder.Services.Configure<ApiConfiguration>(
                 builder.Configuration.GetSection(ApiConfiguration.ConfigName));
 
-main
             return builder;
         }
 
@@ -61,25 +76,28 @@ main
         {
             if (app.Environment.IsDevelopment())
             {
-
                 app.UseDeveloperExceptionPage();
             }
             else
             {
                 app.UseExceptionHandler("/erro/500");
                 app.UseStatusCodePagesWithRedirects("/erro/{0}");
-
-
-            }
-            else
-            {
- main
                 app.UseHsts();
             }
+
+            app.UseResponseCaching();
+
+            app.UseGlobalizationConfig();
+
+            app.UseElmahIo();
+
+            app.UseElmahIoExtensionsLogging();
 
             app.UseHttpsRedirection();
 
             app.UseStaticFiles();
+
+            app.UseCookiePolicy();
 
             app.UseRouting();
 

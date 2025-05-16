@@ -1,25 +1,38 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using MeuSiteMVC.Models;
+using Microsoft.Extensions.Localization;
+using Microsoft.AspNetCore.Localization;
 
 namespace MeuSiteMVC.Controllers;
 
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
+    private readonly IStringLocalizer<HomeController> _localizer;
 
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(ILogger<HomeController> logger,
+                          IStringLocalizer<HomeController> localizer)
     {
         _logger = logger;
+        _localizer = localizer;
     }
 
     public IActionResult Index()
     {
-        return RedirectToAction("Index", "Alunos");
+        ViewData["Message"] = _localizer["Seja bem vindo!"];
+        ViewData["Horario"] = DateTime.Now;
+
+        if (Request.Cookies.TryGetValue("MeuCookie", out string? cookieValue))
+        {
+            ViewData["MeuCookie"] = cookieValue;
+        }
+        return View();
     }
 
     public IActionResult Privacy()
     {
+        
         return View();
     }
 
@@ -28,6 +41,32 @@ public class HomeController : Controller
     {
         return Index();
     }
+
+    [HttpPost]
+    public IActionResult SetLanguage(string culture, string returnUrl)
+    {
+        Response.Cookies.Append(
+            CookieRequestCultureProvider.DefaultCookieName,
+            CookieRequestCultureProvider.MakeCookieValue(new RequestCulture(culture)),
+            new CookieOptions { Expires = DateTimeOffset.UtcNow.AddYears(1) }
+        );
+
+        return LocalRedirect(returnUrl);
+    }
+
+    [Route("cookies")]
+    public IActionResult Cookie()
+    {
+        var cookieOptions = new CookieOptions
+        {
+            Expires = DateTime.Now.AddHours(1)
+        };
+
+        Response.Cookies.Append("MeuCookie", "Dados do Cookie", cookieOptions);
+
+        return View();
+    }
+
 
     [Route("teste")]
     public IActionResult Teste()

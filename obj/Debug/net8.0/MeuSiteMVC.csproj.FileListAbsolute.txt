@@ -457,9 +457,6 @@ C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\MeuSiteMVC\obj\Debug\net8.0\e
 C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\MeuSiteMVC\bin\Debug\net8.0\testhost.dll
 C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\MeuSiteMVC\bin\Debug\net8.0\xunit.abstractions.dll
 C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\MeuSiteMVC\bin\Debug\net8.0\testhost.exe
-C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\MeuSiteMVC\bin\Debug\net8.0\Tests\Testes\obj\Debug\net8.0\Testes.sourcelink.json
-C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\MeuSiteMVC\bin\Debug\net8.0\Tests\Testes\obj\project.assets.json
-C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\MeuSiteMVC\bin\Debug\net8.0\Tests\Testes\obj\Testes.csproj.nuget.dgspec.json
 C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\MeuSiteMVC\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
 C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\MeuSiteMVC\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\joao.fernandes\Desktop\JOAO PEDRO\Codigos\MeuSiteMVC\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
