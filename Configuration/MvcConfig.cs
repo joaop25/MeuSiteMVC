@@ -120,6 +120,7 @@ namespace MeuSiteMVC.Configuration
 
             }
 
+            DbMigrationHelpers.EnsureSeedData(app).Wait();
             return app;
         }
     }
