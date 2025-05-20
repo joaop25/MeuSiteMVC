@@ -41,10 +41,10 @@ namespace MeuSiteMVC.Configuration
             await context.Users.AddAsync(new IdentityUser()
             {
                 Id = "ef0e0af2-1ba4-4519-b322-32dcb7041567",
-                UserName = "teste@teste.com",
-                NormalizedUserName = "TESTE@TESTE.COM",
-                Email = "teste@teste.com",
-                NormalizedEmail = "TESTE@TESTE.COM",
+                UserName = "joaopfernandes.m@gmail.com",
+                NormalizedUserName = "joaopfernandes.m@gmail.com",
+                Email = "joaopfernandes.m@gmail.com",
+                NormalizedEmail = "joaopfernandes.m@gmail.com",
                 EmailConfirmed = true,
                 PasswordHash = "AQAAAAIAAYagAAAAEElLokEYWXScCl0LUbh96Thu6CBkwEZDaQQ0+8/D/bYsfBxYQB/NfRIsCcUk03+Wxg==",
                 SecurityStamp = "R75GPOQ7C4IP7HI3CDIJ2WS3ELTP6KBV",

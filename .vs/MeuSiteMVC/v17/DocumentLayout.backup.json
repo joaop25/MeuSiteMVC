@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\configuration\\mvcconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:configuration\\mvcconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\configuration\\dbmigrationhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:configuration\\dbmigrationhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -61,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\views\\shared\\_selectlanguagepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:views\\shared\\_selectlanguagepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C183E453-CB8B-44C1-BD4C-266E68D20198}|MeuSiteMVC.csproj|c:\\users\\joao.fernandes\\desktop\\joao pedro\\codigos\\meusitemvc\\configuration\\loggingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -263,7 +263,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -291,16 +291,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-17T01:16:27.528Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "appsettings.Docker.json",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\appsettings.Docker.json",
+              "RelativeDocumentMoniker": "appsettings.Docker.json",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\appsettings.Docker.json",
+              "RelativeToolTip": "appsettings.Docker.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T23:49:27.625Z"
             },
             {
               "$type": "Document",
@@ -310,40 +309,88 @@
               "RelativeDocumentMoniker": "Configuration\\DbMigrationHelpers.cs",
               "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Configuration\\DbMigrationHelpers.cs",
               "RelativeToolTip": "Configuration\\DbMigrationHelpers.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAwEkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwC4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T00:51:07.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T00:51:07.759Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.Docker.json",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\appsettings.Docker.json",
-              "RelativeDocumentMoniker": "appsettings.Docker.json",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\appsettings.Docker.json",
-              "RelativeToolTip": "appsettings.Docker.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-16T23:49:27.625Z",
+              "Title": "MvcConfig.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Configuration\\MvcConfig.cs",
+              "RelativeDocumentMoniker": "Configuration\\MvcConfig.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Configuration\\MvcConfig.cs",
+              "RelativeToolTip": "Configuration\\MvcConfig.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAH0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:15:06.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T01:11:45.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
               "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowCIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-05-16T23:30:49.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T11:38:26.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-17T01:16:27.528Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\Aluno.cs",
+              "RelativeToolTip": "Models\\Aluno.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:41:19.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -355,33 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\Aluno.cs",
-              "RelativeDocumentMoniker": "Models\\Aluno.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Models\\Aluno.cs",
-              "RelativeToolTip": "Models\\Aluno.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T10:41:19.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MvcConfig.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Configuration\\MvcConfig.cs",
-              "RelativeDocumentMoniker": "Configuration\\MvcConfig.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Configuration\\MvcConfig.cs",
-              "RelativeToolTip": "Configuration\\MvcConfig.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAQwHoAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T11:15:06.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -390,18 +411,6 @@
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-04T11:43:32.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-04T11:38:26.141Z"
             },
             {
               "$type": "Document",
@@ -429,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -441,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MeuSiteMVC",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\MeuSiteMVC.csproj",
               "RelativeDocumentMoniker": "MeuSiteMVC.csproj",
@@ -464,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "GlobalizationConfig.cs",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Configuration\\GlobalizationConfig.cs",
               "RelativeDocumentMoniker": "Configuration\\GlobalizationConfig.cs",
@@ -476,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -488,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "_SelectLanguagePartial.cshtml",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Views\\Shared\\_SelectLanguagePartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_SelectLanguagePartial.cshtml",
@@ -500,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Shared._SelectLanguagePartial.en.resx",
               "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Resources\\Views\\Shared._SelectLanguagePartial.en.resx",
               "RelativeDocumentMoniker": "Resources\\Views\\Shared._SelectLanguagePartial.en.resx",
@@ -508,18 +517,6 @@
               "RelativeToolTip": "Resources\\Views\\Shared._SelectLanguagePartial.en.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2025-05-16T00:02:24.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\joao.fernandes\\Desktop\\JOAO PEDRO\\Codigos\\MeuSiteMVC\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T01:11:45.059Z"
             },
             {
               "$type": "Document",
