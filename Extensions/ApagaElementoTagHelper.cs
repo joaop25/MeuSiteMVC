@@ -26,7 +26,7 @@ namespace MeuSiteMVC.Extensions
             if (output == null)
                 throw new ArgumentNullException(nameof(output));
             if(string.IsNullOrEmpty(IdentityClaimName) || string.IsNullOrEmpty(IdentityClaimValue))
-                throw new ArgumentException("Teste.");
+                throw new ArgumentException("Teste2.");
 
             var temAcesso = CustomAuthorization.ValidarClaimsUsuario(_contextAccessor.HttpContext, IdentityClaimName, IdentityClaimValue);
 

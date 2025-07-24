@@ -14,7 +14,7 @@ namespace MeuSiteMVC.Models
         public string? Nome { get; set; }
 
         [Required(ErrorMessage = "O campo {0} é obrigatório")]
-        [DataType(DataType.DateTime, ErrorMessage = "O campo {0} está em formato incorreto")]
+        [DataType(DataType.DateTime, ErrorMessage = "O campo {0} está em formato incorreto!")]
         [Display(Name = "Data de Nascimento")]
         public DateTime DataNascimento { get; set; }
 
