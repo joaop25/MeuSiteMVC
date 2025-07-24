@@ -26,6 +26,10 @@ namespace MeuSiteMVC.Controllers
         [Route("inicio")]
         [ClaimsAuthorize("Produtos", "VI")]
         public IActionResult Index(string searchString)
+           if (!string.IsNullOrEmpty(searchString) && searchString != "Joao")
+           {
+               return Content("Acesso Negado!");
+           }
         {
             var env = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
 
