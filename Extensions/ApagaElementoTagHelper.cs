@@ -26,7 +26,7 @@ namespace MeuSiteMVC.Extensions
             if (output == null)
                 throw new ArgumentNullException(nameof(output));
             if(string.IsNullOrEmpty(IdentityClaimName) || string.IsNullOrEmpty(IdentityClaimValue))
-                throw new ArgumentException("Os atributos 'supress-by-claim-name' e 'supress-by-claim-value' devem ser fornecidos.");
+                throw new ArgumentException("Teste2.");
 
             var temAcesso = CustomAuthorization.ValidarClaimsUsuario(_contextAccessor.HttpContext, IdentityClaimName, IdentityClaimValue);
 
