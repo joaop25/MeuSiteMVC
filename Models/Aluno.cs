@@ -1,4 +1,4 @@
-﻿using System.ComponentModel;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -39,5 +39,9 @@ namespace MeuSiteMVC.Models
         public IFormFile? ImagemUpload { get; set; }
 
         public string? Imagem { get; set; }
+
+        [Required(ErrorMessage = "O campo {0} é obrigatório")]
+        [StringLength(1000, ErrorMessage = "O campo {0} não pode ter mais do que {1} caracteres")]
+        public string Endereco { get; set; }
     }
 }
