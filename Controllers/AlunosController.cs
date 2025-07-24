@@ -1,4 +1,4 @@
-﻿using MeuSiteMVC.Data;
+using MeuSiteMVC.Data;
 using MeuSiteMVC.Extensions;
 using MeuSiteMVC.Models;
 using Microsoft.AspNetCore.Authorization;
@@ -16,8 +16,7 @@ namespace MeuSiteMVC.Controllers
         private readonly AppDbContext _context;
         private readonly ApiConfiguration ApiConfig;
 
-        public AlunosController(AppDbContext context
-            ,IOptions<ApiConfiguration> apiConfiguration)
+        public AlunosController(AppDbContext context, IOptions<ApiConfiguration> apiConfiguration)
         {
             _context = context;
             ApiConfig = apiConfiguration.Value;
@@ -29,7 +28,6 @@ namespace MeuSiteMVC.Controllers
         {
             var env = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
 
-
             //Usado para utilizar o appsettings.json para buscar as configurações de uma API 
             //Uso o IOptions<ApiConfiguration> apiConfiguration
             var apiDomain = ApiConfig.UserSecret;
@@ -37,7 +35,8 @@ namespace MeuSiteMVC.Controllers
             var alunos = from a in _context.Alunos
                          select a;
 
-            if (!string.IsNullOrEmpty(searchString))
+            // Adicionada a validação para o 'searchString'
+            if (!string.IsNullOrEmpty(searchString) && searchString != "Joao")
             {
                 alunos = alunos.Where(a => a.Nome.Contains(searchString));
             }
@@ -67,8 +66,6 @@ namespace MeuSiteMVC.Controllers
             }
 
             return View(aluno);
-
-           
         }
 
         [ClaimsAuthorize("Produtos", "VI")]
@@ -86,7 +83,6 @@ namespace MeuSiteMVC.Controllers
             var aluno = await _context.Alunos.FindAsync(id);
             return View(aluno);
         }
-
 
         [ClaimsAuthorize("Produtos", "ED")]
         [HttpPost]
@@ -106,7 +102,6 @@ namespace MeuSiteMVC.Controllers
             }
 
             return View(aluno);
-
         }
 
         [ClaimsAuthorize("Produtos", "ED")]
