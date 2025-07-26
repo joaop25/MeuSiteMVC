@@ -1,0 +1,1 @@
+Criação do objeto 'Professor' com propriedades relevantes e suas validações correspondentes pelo FluentValidation. Além disso, professor agora tem uma propriedade para salvar sua foto.
