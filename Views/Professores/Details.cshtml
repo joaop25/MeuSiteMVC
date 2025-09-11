@@ -1,0 +1,101 @@
+﻿@model Professor
+
+@{
+    ViewData["Title"] = "Detalhes do Professor";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm rounded-4">
+                <div class="card-header bg-primary text-white d-flex justify-content-between align-items-center">
+                    <h4 class="mb-0"><i class="bi bi-person-badge"></i> Detalhes do Professor</h4>
+                    <a asp-action="Index" class="btn btn-sm btn-outline-light">
+                        <i class="bi bi-arrow-left"></i> Voltar
+                    </a>
+                </div>
+                <div class="card-body p-4">
+                    <div class="row">
+                        <div class="col-md-4 text-center mb-4">
+                            @if (!string.IsNullOrEmpty(Model.Imagem))
+                            {
+                                <img src="/images/@Model.Imagem" alt="Foto de @Model.Nome" class="img-fluid rounded-circle shadow" style="max-width: 200px; height: 200px; object-fit: cover;">
+                            }
+                            else
+                            {
+                                <div class="rounded-circle bg-secondary d-flex align-items-center justify-content-center mx-auto" style="width: 200px; height: 200px;">
+                                    <i class="bi bi-person-fill text-white" style="font-size: 4rem;"></i>
+                                </div>
+                            }
+                        </div>
+                        <div class="col-md-8">
+                            <h3 class="text-primary mb-4">@Model.Nome</h3>
+                            
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="mb-3">
+                                        <strong>Data de Nascimento:</strong><br>
+                                        @Model.DataNascimento.ToString("dd/MM/yyyy HH:mm")
+                                    </div>
+                                    <div class="mb-3">
+                                        <strong>Email:</strong><br>
+                                        @Model.Email
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="mb-3">
+                                        <strong>Especialização:</strong><br>
+                                        @Model.Especializacao
+                                    </div>
+                                    <div class="mb-3">
+                                        <strong>Anos de Experiência:</strong><br>
+                                        @Model.AnosExperiencia anos
+                                    </div>
+                                    <div class="mb-3">
+                                        <strong>Status:</strong><br>
+                                        @if (Model.Ativo)
+                                        {
+                                            <span class="badge bg-success">Ativo</span>
+                                        }
+                                        else
+                                        {
+                                            <span class="badge bg-danger">Inativo</span>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="d-flex gap-2 mt-4">
+                                <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">
+                                    <i class="bi bi-pencil"></i> Editar
+                                </a>
+                                <a href="#" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteModal">
+                                    <i class="bi bi-trash"></i> Deletar
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal de confirmação -->
+<div class="modal fade" id="deleteModal" tabindex="-1" aria-labelledby="deleteModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header bg-danger text-white">
+                <h5 class="modal-title" id="deleteModalLabel"><i class="bi bi-exclamation-triangle-fill"></i> Confirmar Exclusão</h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Fechar"></button>
+            </div>
+            <div class="modal-body">
+                Tem certeza de que deseja excluir o professor @Model.Nome?
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                <a asp-action="deletar" asp-route-id="@Model.Id" class="btn btn-danger">Excluir</a>
+            </div>
+        </div>
+    </div>
+</div>
